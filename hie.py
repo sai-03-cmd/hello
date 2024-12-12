@@ -1,2 +1,2 @@
-b=12
-print(b)
+a=12
+print(a)
